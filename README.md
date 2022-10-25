@@ -1,0 +1,2 @@
+# javascript
+ exercicio em js
